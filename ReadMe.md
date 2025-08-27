@@ -21,7 +21,7 @@ This project demonstrates how different forecasting approaches can be applied to
 ![Stock Forecast Demo - Linear Regression](assets/LinearRegression_forecast.jpeg)
 Linear Regression Forecast vs Actual Prices
 
-![Stock Forecast Demo - ARIMA](assets/arima_forecast.jpeg)
+![Stock Forecast Demo - ARIMA](assets/ARIMA_Forecast.jpeg)
 ARIMA Forecast vs Actual Prices
 
 ## 🚀 Features
